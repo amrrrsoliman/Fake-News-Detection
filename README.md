@@ -1,4 +1,5 @@
-3Fake News Detection System
+#Fake News Detection System
+
 A web-based fake news detection system using a fine-tuned DistilBERT model with a Flask backend and modern HTML/CSS frontend.
 
 Features
