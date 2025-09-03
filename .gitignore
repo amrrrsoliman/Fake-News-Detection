@@ -18,3 +18,48 @@ Thumbs.db
 
 # Logs
 *.log
+
+
+
+
+__pycache__/
+*.log
+*.tmp
+.env
+*.egg-info
+dist/
+build/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Large data or model files
+*.csv
+*.tsv
+*.json
+*.zip
+*.gz
+*.pkl
+*.h5
+*.pt
+*.model
+
+# OS files
+.DS_Store
+Thumbs.db
