@@ -1,6 +1,4 @@
-# 🧠 Fake News Detector – NLP-Based Headline Classifier
-
-**Project code is uploaded in the master branch.**
+# 🧠 Fake News Detector – NLP-Based Headline Classifier (Project code is uploaded in the master branch)
 
 An AI-powered system that classifies news headlines as **real or fake** using a fine-tuned BERT transformer model. Built with a focus on **accuracy, scalability, and real-time inference**.
 
