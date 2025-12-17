@@ -59,15 +59,6 @@ Optimized for precision and recall to minimize false positives/negatives
 
 Training Features: Hyperparameter tuning, supervised fine-tuning, and validation splitting
 
-📥 Model Location
-The trained model is stored in the file:
-Fake_News_Detection_95
-
-Inside this file, you will find:
-
-Access link: Google Drive view link
-
-Direct download link: Google Drive download link
 
 🔌 API Endpoint
 You can also use the model via a direct API call:
