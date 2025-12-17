@@ -43,3 +43,63 @@ Clone the repository and install dependencies:
 git clone https://github.com/amrrrsoliman/Fake-News-Detection.git
 cd Fake-News-Detection
 pip install -r requirements.txt
+
+
+
+🤖 Model Details
+Base Model: BERT (Bidirectional Encoder Representations from Transformers)
+
+Dataset: Custom-trained on 20,000+ labeled headlines
+
+Performance Metrics:
+
+Accuracy: 94.97%
+
+Optimized for precision and recall to minimize false positives/negatives
+
+Training Features: Hyperparameter tuning, supervised fine-tuning, and validation splitting
+
+📥 Model Location
+The trained model is stored in the file:
+Fake_News_Detection_95
+
+Inside this file, you will find:
+
+Access link: Google Drive view link
+
+Direct download link: Google Drive download link
+
+🔌 API Endpoint
+You can also use the model via a direct API call:
+
+bash
+curl -X POST http://localhost:5000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"headline": "Your news headline here"}'
+Response:
+
+json
+{
+  "prediction": "Real",
+  "confidence": 0.92
+}
+📈 Future Improvements
+Expand dataset with multi-language support
+
+Implement ensemble models (BERT + RoBERTa)
+
+Add explainable AI (XAI) features to show classification reasoning
+
+🧾 License
+This project is for educational and research purposes. Please cite appropriately if used in academic work.
+
+Code
+
+---
+
+✅ This version makes it crystal clear:
+- The model is in the file `Fake_News_Detection_95`.  
+- That file contains both the **view link** and the **direct download link**.  
+- Recruiters or collaborators can easily find and access the model without confusion.  
+
+Would you like me to now **standardize this same “Model Location” section** for your S
