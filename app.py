@@ -6,7 +6,7 @@ import numpy as np
 import os
 import logging
 
-#http://127.0.0.1:5000/
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
